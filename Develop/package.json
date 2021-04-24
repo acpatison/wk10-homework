@@ -1,0 +1,17 @@
+{
+  "name": "develop",
+  "version": "1.0.0",
+  "description": "<!-- Put all of your classes for each employee type into the classes group -->\r <!-- Include all of your card elements needed using object literals -->",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
