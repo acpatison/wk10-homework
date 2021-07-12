@@ -5,7 +5,6 @@
 
 ## Description
 🔍 This project is my Team profile generator. With this application, I am able to create team profiles for my team at work by only utilizing answers from the command line. After I am prompted for whether or not I want to add additional team members, once I complete my team and respond "no", my team is generated to my team's webpage where it can be viewed by the public!
-![CLI](wk10-homework\Assets\CLI-pic.png)
 
 ## Table of Contents
 - [Description](#description)
